@@ -5,7 +5,7 @@
 The **anterior cruciate ligament(ACL)** is a connective tissue located in the knee, between the femur and tibia. It’s an important ligament that assists the body with internal rotational as well as valgus angulation. Movements that consist of cutting and pivoting are important as the ACL is required for the stability of the knee. 
 
 ## ACL Tears
-<img style="float: right;" src="https://www.sportnova.co.uk/wp-content/uploads/2016/05/ACL-Injury.jpg" height="200">
+<img align="right" src="https://www.sportnova.co.uk/wp-content/uploads/2016/05/ACL-Injury.jpg" height="200">
 Approximately there are 100,000 to 200,000 ACL ruptures annually in the US with women having 2 to 8 times more likely to occur. This is due to women often having significantly less muscle mass in the knee, as well having more flexion- instability to the knee.
 <p> </p>
 An ACL occurs when the tibia goes one direction and the femur goes another. Which in turns ruptures the ACL, which often tends to the damaging of the meniscus as well. During an accident of the ACL, a *pop* or *snap* can be often felt and heard. Swelling of the knee follows after and the inability to bear weight on the injured leg. 
